@@ -1,11 +1,13 @@
-AnnoLoom
-A modern desktop image annotation tool for computer vision datasets —
-bounding boxes, polygons, and keypoints, in one clean PyQt6 app.
-Built from scratch to avoid the class of bugs that affect older,
-unmaintained annotation tools on recent Python/Qt versions (e.g. passing
-float mouse coordinates into drawing calls that expect ints). Every
-coordinate conversion in AnnoLoom's canvas goes through a single
-rounding helper, so this fails safe instead of crashing.
+<div align="center">
+<img src="AnnoLoom.png" alt="AnnoLoom logo" width="200"/>
+#AnnoLoom#
+A modern desktop image annotation tool for computer vision datasets
+Bounding boxes, polygons, and keypoints — in one clean PyQt6 app.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![PyQt6](https://img.shields.io/badge/UI-PyQt6-41cd52)
+</div>
+---
 Install
 ```bash
 pip install annoloom
