@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="AnnoLoom.png" alt="AnnoLoom logo" width="320"/>
+<img src="logo.png" alt="AnnoLoom logo" width="320"/>
 
 # AnnoLoom
 
