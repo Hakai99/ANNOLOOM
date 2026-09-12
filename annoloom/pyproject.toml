@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "annoloom"
+version = "0.1.0"
+description = "A modern desktop tool for annotating images with bounding boxes, polygons, and keypoints."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "AnnoLoom contributors" }
+]
+keywords = ["annotation", "bounding-box", "polygon", "keypoints", "computer-vision", "labeling", "yolo", "coco", "pascal-voc"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Multimedia :: Graphics",
+]
+dependencies = [
+    "PyQt6>=6.6.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/example/annoloom"
+Repository = "https://github.com/example/annoloom"
+Issues = "https://github.com/example/annoloom/issues"
+
+[project.scripts]
+annoloom = "annoloom.app:main"
+
+[tool.setuptools.packages.find]
+include = ["annoloom*"]
+
+[tool.setuptools.package-data]
+annoloom = ["resources/*.png"]
