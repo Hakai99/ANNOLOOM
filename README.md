@@ -1,6 +1,6 @@
 <div align="center">
 <img src="AnnoLoom.png" alt="AnnoLoom logo" width="200"/>
-#AnnoLoom#
+AnnoLoom
 A modern desktop image annotation tool for computer vision datasets
 Bounding boxes, polygons, and keypoints — in one clean PyQt6 app.
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
