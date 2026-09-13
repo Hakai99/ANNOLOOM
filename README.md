@@ -39,7 +39,7 @@ polygons, or keypoint sets, assign labels, and save.
   it auto-finishes; select a shape in the list and click DelAnnote to
   remove it.
 - **White crosshair guide lines** follow your cursor while drawing,
-  like labelImg's targeting lines, to help line up box edges precisely.
+   to help line up box edges precisely.
 - **Auto-fit, centered canvas**: images scale to fill the available
   space and stay centered — no more tiny thumbnails in the corner.
 - **Natural, numeric image ordering**: files like `img2.jpg`, `img10.jpg`,
