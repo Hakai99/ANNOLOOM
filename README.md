@@ -8,7 +8,7 @@
 
 Bounding boxes, polygons, and keypoints — in one clean PyQt6 app.
 
-[![License: OpenHands License](https://img.shields.io/badge/License-Custom-orange.svg)](LICENSE)
+[![License: OpenHands](https://img.shields.io/badge/License-OpenHands-orange.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/UI-PyQt6-41cd52)](https://pypi.org/project/PyQt6/)
 
@@ -115,6 +115,6 @@ once and share the resulting `.exe`.
 > to get a Windows `.exe`; the same steps on macOS/Linux would produce
 > a Mac/Linux binary instead.
 
-## License
+## License (OpenHands)
 
 This project is licensed under a custom license — free to use, but modification and redistribution of modified versions are not permitted. See the [LICENSE](LICENSE) file for full terms.
