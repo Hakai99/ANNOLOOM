@@ -1,21 +1,38 @@
-MIT License
+AnnoLoom License
 
 Copyright (c) 2026 Dev Kr Lahkar
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted to any person to use this software ("AnnoLoom"),
+free of charge, for personal, educational, or commercial purposes,
+subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. USE PERMITTED
+   You may download, install, and use AnnoLoom for any purpose,
+   without payment or additional permission.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. NO MODIFICATION
+   You may not modify, alter, adapt, or create derivative works based
+   on AnnoLoom's source code.
+
+3. NO REDISTRIBUTION OF MODIFIED VERSIONS
+   You may not distribute, publish, sublicense, or sell any modified
+   or derivative version of AnnoLoom.
+
+4. REDISTRIBUTION OF THE UNMODIFIED SOFTWARE
+   You may redistribute unmodified copies of AnnoLoom, provided this
+   license file and all copyright notices are included unchanged.
+
+5. ATTRIBUTION
+   Any public use, showcase, or reference to AnnoLoom must credit the
+   original author.
+
+6. NO WARRANTY
+   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+   CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS
+   SOFTWARE.
+
+For permissions beyond the scope of this license (e.g. to modify or
+build derivative works), please contact me directly.
