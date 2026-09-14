@@ -75,7 +75,7 @@ polygons, or keypoint sets, assign labels, and save.
   formats with an on-screen warning listing exactly what was skipped —
   nothing is silently dropped. Use COCO export if you need full fidelity
   for polygons or keypoints in an interchange format.
-- **Dark, modern UI** with your own logo as the app icon, an image list,
+- **Dark, modern UI** an image list,
   live shape list per image, and inline label editing.
 
 ## Data model
