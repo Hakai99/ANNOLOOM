@@ -31,8 +31,11 @@ annoloom
 Then Open Folder and point it at a directory of images. Draw boxes,
 polygons, or keypoint sets, assign labels, and save.
 
-## Demo Annotation Marking
-<img src="annoloom/annoloom/resources/logo.png" alt="AnnoLoom logo" height= "" width="320"/>
+## AnnoLoom UI
+<img src="AnnoLoomUI.png" alt="AnnoLoom UI" height= "480" width="854"/>
+
+## AnnoLoom Annotation Demo Marking
+<img src="DemoAnnotation.png" alt="AnnoLoom Demo" height= "480" width="854"/>
 
 ## Features
 
