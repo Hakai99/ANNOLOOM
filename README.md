@@ -32,11 +32,15 @@ Then Open Folder and point it at a directory of images. Draw boxes,
 polygons, or keypoint sets, assign labels, and save.
 
 ## AnnoLoom UI
+<br>
 <img src="AnnoLoomUI.png" alt="AnnoLoom UI" height= "480" width="854"/>
-
+<br>
+<br>
 ## AnnoLoom Annotations Marking
+<br>
 <img src="DemoAnnotation.png" alt="AnnoLoom Demo" height= "480" width="854"/>
-
+<br>
+<br>
 ## Features
 
 - **Three shape types**: bounding boxes, polygons, and labeled keypoints
