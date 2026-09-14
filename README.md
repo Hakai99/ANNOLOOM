@@ -117,4 +117,4 @@ once and share the resulting `.exe`.
 
 ## License
 
-MIT
+This project is licensed under a custom license — free to use, but modification and redistribution of modified versions are not permitted. See the [LICENSE](LICENSE) file for full terms.
