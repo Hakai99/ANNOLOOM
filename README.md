@@ -35,7 +35,7 @@ polygons, or keypoint sets, assign labels, and save.
 
 <img src="AnnoLoomUI.png" alt="AnnoLoom UI" height= "480" width="854"/>
 
-## AnnoLoom Annotations Marking
+## AnnoLoom Annotation Marking
 
 <img src="DemoAnnotation.png" alt="AnnoLoom Demo" height= "480" width="854"/>
 
